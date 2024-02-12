@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=6F8575E8_002D427B_002D4AE2_002DB2C7_002D6EE6ECBCB84F_002Fd_003ATests_002Ff_003ATransferMoneyTests_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1711e729_002D4989_002D4f6e_002D9126_002D66fd137a74a8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="WithdrawMoney_BalanceShouldBeCorrectAfterWithdraw" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFile&gt;16E6A570-D70F-4E1D-B206-0AC61325FE46/f:WithdrawMoneyTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;16E6A570-D70F-4E1D-B206-0AC61325FE46/f:TransferMoneyTests.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	</wpf:ResourceDictionary>

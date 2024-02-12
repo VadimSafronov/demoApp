@@ -1,0 +1,10 @@
+
+src/.idea/
+
+src/Application/bin/
+
+src/Application/obj/
+
+src/ApplicationTests/bin/
+
+src/ApplicationTests/obj/
